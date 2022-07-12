@@ -1,0 +1,15 @@
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\bin\Debug\net6.0\4_ex.exe
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\bin\Debug\net6.0\4_ex.deps.json
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\bin\Debug\net6.0\4_ex.runtimeconfig.json
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\bin\Debug\net6.0\4_ex.dll
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\bin\Debug\net6.0\4_ex.pdb
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\4_ex.csproj.AssemblyReference.cache
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\4_ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\4_ex.AssemblyInfoInputs.cache
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\4_ex.AssemblyInfo.cs
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\4_ex.csproj.CoreCompileInputs.cache
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\4_ex.dll
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\refint\4_ex.dll
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\4_ex.pdb
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\4_ex.genruntimeconfig.cache
+D:\LEARNING\WELCOME_to_C#\TRAININGS_C#\Homework\4_ex\obj\Debug\net6.0\ref\4_ex.dll

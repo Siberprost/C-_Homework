@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LEARNING\\WELCOME_to_C#\\TRAININGS_C#\\Homework\\4_ex\\4_ex.csproj": {}
+  },
+  "projects": {
+    "D:\\LEARNING\\WELCOME_to_C#\\TRAININGS_C#\\Homework\\4_ex\\4_ex.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LEARNING\\WELCOME_to_C#\\TRAININGS_C#\\Homework\\4_ex\\4_ex.csproj",
+        "projectName": "4_ex",
+        "projectPath": "D:\\LEARNING\\WELCOME_to_C#\\TRAININGS_C#\\Homework\\4_ex\\4_ex.csproj",
+        "packagesPath": "C:\\Users\\skrip\\.nuget\\packages\\",
+        "outputPath": "D:\\LEARNING\\WELCOME_to_C#\\TRAININGS_C#\\Homework\\4_ex\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skrip\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
