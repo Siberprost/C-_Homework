@@ -7,6 +7,7 @@ Console.Write("Введите число: ");
 int start = 1;
 while (start<= num)
     {
+        if (start % 2 == 0)
         Console.Write(start + " ");
         start++;
     }
