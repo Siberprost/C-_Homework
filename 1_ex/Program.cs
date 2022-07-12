@@ -11,7 +11,11 @@ if(number_2 < number_1)
 {
     Console.WriteLine("max=" + number_1);
 }
-else
+else if (number_1 < number_2)
 {
     Console.WriteLine("max=" + number_2);
+}
+else
+{
+    Console.WriteLine("Числа равны");
 }
