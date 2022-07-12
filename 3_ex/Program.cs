@@ -8,9 +8,9 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 if (number %2 == 0)
 {
-    Console.WriteLine("да");
+    Console.WriteLine("да, чётное");
 }
 else
 {
-     Console.WriteLine("нет");
+     Console.WriteLine("нет, не чётное");
 }
