@@ -5,14 +5,15 @@ void PowerForUzver()
     int a = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("В какую степень будем возводить?");
     int step = Convert.ToInt32(Console.ReadLine());
-
+    int result = a;
     for (int i = 1; i < step; i++)
     {
-        a = a * a;
+        result *= a;
     }
-    Console.Write(a);
+    Console.Write(result);
 }
-//PowerForUzver()
+
+//PowerForUzver();
 
 /* Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 452 -> 11
@@ -57,7 +58,7 @@ void SortMassive()
         for (int i = 0; i < size; i++)
         {
             Random rand = new Random ();
-            x = rand.Next(-10,10);
+            x = rand.Next(-10,11);
            arr[i] = x;
            Console.Write($"{arr[i]} ");
         }
@@ -70,7 +71,7 @@ void SortMassive()
         int minPosition = i; 
         for(int j = i + 1; j < array.Length; j++) 
         {
-            if(array[j] < array[minPosition]) minPosition = j; 
+            if(Math.Abs(array[j]) < Math.Abs(array[minPosition])) minPosition = j; 
         }
 
 
@@ -93,4 +94,4 @@ void SortMassive()
     SelectionSort(arr);
     PrintArray(arr);
 }
-//SortMassive();
+SortMassive();
